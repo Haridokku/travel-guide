@@ -1,0 +1,30 @@
+.appContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #eef4f7;
+}
+.heading {
+  color: #334155;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  text-align: center;
+  border: none;
+  border-bottom: 2px solid #52bbf0;
+}
+.loaderContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.unorderedList {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-left: 0px;
+}
